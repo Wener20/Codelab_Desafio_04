@@ -1,10 +1,10 @@
-body{
+body {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#container2{
+#container2 {
     border: 1px solid black;
     width: 90vw;
     height: 556px;
@@ -14,7 +14,7 @@ body{
     gap: 40px;
 }
 
-.titlle{
+.titlle {
     width: 90vw;
     height: 8vh;
     display: flex;
@@ -39,7 +39,7 @@ body{
     line-height: 26.11px;
 }
 
-#container_inputs{
+#container_inputs {
     width: 90vw;
     height: 184px;
     display: flex;
@@ -48,7 +48,7 @@ body{
     border: 1px solid blue;
 }
 
-.input{
+.input {
     display: flex;
     flex-direction: column;
     gap: 1vh;
@@ -61,7 +61,7 @@ body{
     line-height: 15.23px;
 }
 
-.text_box{
+.text_box {
     height: 49px;
     padding: 1rem;
     border-radius: 4px;
@@ -69,7 +69,7 @@ body{
     background: #F7FAFC;
 }
 
-.grupo{
+.grupo {
     height: 16px;
     display: flex;
     justify-content: space-between;
@@ -92,4 +92,14 @@ body{
     line-height: 15.23px;
     text-align: right;
     color: #1E9E6A;
+}
+
+.entrar_conta {
+    width: 90vw;
+    height: 45px;
+}
+
+.faça_login {
+    width: 90vw;
+    height: 45px;
 }
