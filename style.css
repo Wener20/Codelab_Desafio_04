@@ -4,7 +4,7 @@ body{
     align-items: center;
 }
 
-#container{
+#container2{
     border: 1px solid black;
     width: 95vw;
     height: 80vh;
@@ -50,7 +50,6 @@ body{
     display: flex;
     flex-direction: column;
     gap: 1vh;
-    /* border: 1px solid red; */
 }
 
 .label_input {
